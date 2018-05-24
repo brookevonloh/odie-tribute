@@ -28,7 +28,7 @@ header {
 
 header h1, header h2, header h3 {
   margin: auto;
-  color: #0000DD;
+  color: #000077;
   display: inline-block
 }
 
@@ -36,6 +36,10 @@ main {
   width: 80%;
   margin: 24px auto;
   flex: 1 0 auto
+}
+
+main section {
+  margin: 8px 0
 }
 
 footer {
