@@ -13,7 +13,8 @@ header {
 
 header h1, header h2 {
   margin: auto;
-  color: #0000DD
+  color: #0000DD;
+  display: inline-block
 }
 
 footer {
@@ -22,5 +23,6 @@ footer {
 }
 
 footer h4 {
-  margin: auto
+  margin: auto;
+  display: inline-block
 }
