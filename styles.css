@@ -8,13 +8,14 @@ body {
 }
 
 header {
-
+  text-alignment: center;
 }
 
-main h1 {
-  color: #FF0000
+header h1 {
+  color: #0000DD
 }
 
 footer {
-
+  margin: 16px;
+  text-alignment: center;
 }
