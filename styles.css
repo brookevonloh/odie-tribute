@@ -11,11 +11,16 @@ header {
   text-alignment: center;
 }
 
-header h1 {
+header h1, header h2 {
+  margin: auto;
   color: #0000DD
 }
 
 footer {
   margin: 16px;
-  text-alignment: center;
+  text-alignment: center
+}
+
+footer h4 {
+  margin: auto
 }
