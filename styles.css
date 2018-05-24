@@ -7,6 +7,10 @@ body {
   padding-top: 24px
 }
 
+img {
+  border-radius: 50%
+}
+
 header {
   text-alignment: center;
 }
