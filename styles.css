@@ -12,7 +12,7 @@ img {
 }
 
 header {
-  text-alignment: center;
+  text-align: center;
 }
 
 header h1, header h2 {
@@ -23,7 +23,7 @@ header h1, header h2 {
 
 footer {
   margin: 16px;
-  text-alignment: center
+  text-align: center
 }
 
 footer h4 {
