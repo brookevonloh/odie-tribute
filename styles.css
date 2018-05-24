@@ -11,7 +11,8 @@ body {
 img {
   margin: 24px auto;
   border: 4px solid #0F0F0F;
-  border-radius: 50%
+  border-radius: 50%;
+  display: inline-block
 }
 
 hr {
@@ -34,7 +35,7 @@ main {
 }
 
 footer {
-  margin: 16px;
+  padding: 16px;
   text-align: center;
   background: #BFBFBF
 }
