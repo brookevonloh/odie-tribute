@@ -4,12 +4,12 @@
 }
 
 body {
-  padding-top: 24px;
   background: #DFDFDF;
   font-family: Futura, Verdana, Arial
 }
 
 img {
+  margin: 24px auto;
   border: 4px solid #0F0F0F;
   border-radius: 50%
 }
@@ -22,6 +22,10 @@ header h1, header h2 {
   margin: auto;
   color: #0000DD;
   display: inline-block
+}
+
+main {
+  width: 80%
 }
 
 footer {
